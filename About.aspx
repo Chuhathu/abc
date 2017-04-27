@@ -7,6 +7,7 @@
     </hgroup>
 
     <article>
+        <h1> Hello world</h1>
         <p>        
             Use this area to provide additional information.
         </p>
